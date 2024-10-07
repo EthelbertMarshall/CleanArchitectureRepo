@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Persistance.deps.json
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Persistance.dll
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Persistance.pdb
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.Leave.BE0769D6.Up2Date
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.dll
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\refint\HR.LeaveManagement.Persistance.dll
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\HR.LeaveManagement.Persistance.pdb
+C:\Users\Admin\source\repos\MS\Udemy\CleanArchitecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistance\obj\Debug\net8.0\ref\HR.LeaveManagement.Persistance.dll
